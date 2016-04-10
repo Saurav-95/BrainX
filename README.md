@@ -18,8 +18,11 @@ Instructions to Play
 ====================
 
 > Use Start button to start the game.
+
 > At any point during the game, Use SPACEBAR to pause the game.
+
 > Use UP, DOWN, LEFT & RIGHT arrow keys to control the movement of the buddy.
+
 > Use Restart button to restart the game again.
 
 
@@ -27,7 +30,9 @@ References
 ==========
 
 http://processingjs.org/reference/
+
 https://processing.org/reference/
+
 https://www.youtube.com/playlist?list=PLemTjQfN3JmnE_IQBSDms2ASsO8L4KkdE
 
 
