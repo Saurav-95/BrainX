@@ -3,7 +3,7 @@ Save Me Game
 
 This game is about saving the buddy from enemies, who are trying hard to hit the buddy.
 There are four enemies and a buddy who is trying to escape from the enemies. In any case, 
-the buddy hits the enemies or the boundary of the screeen, the game ends. There are three 
+the buddy hits the enemies or the boundary of the screen, the game ends. There are three 
 parts of the game:
 
 Challenge 1: No life for the buddy.
